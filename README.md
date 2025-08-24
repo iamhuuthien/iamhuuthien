@@ -29,10 +29,19 @@
 
 ---
 
-#### 🏢 Company Account
-<img src="https://github-readme-stats.vercel.app/api?username=thiennguyenhuuncc&show_icons=true&theme=tokyonight" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiennguyenhuuncc&layout=compact&theme=tokyonight" height="160" />
+#### 🏢 Company Account: [thiennguyenhuuncc](https://github.com/thiennguyenhuuncc)
 
+**Achievements**
+<div align="center">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" title="Quickdraw" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" title="Pull Shark" />
+</div>
+
+**Organization**
+<div align="center">
+  <a href="https://github.com/ncc-erp" target="_blank">
+    <img src="https://img.shields.io/badge/NCC--ERP-Organization-blue?style=for-the-badge&logo=github" />
+  </a>
 </div>
 
 ---
