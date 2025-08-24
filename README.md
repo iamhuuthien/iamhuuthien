@@ -52,8 +52,14 @@
 
 ---
 
-### ✨ Fun GIF
-<img align="right" height="180" src="https://media.giphy.com/media/12pwt3qlbVVBfy/giphy.gif" />
+### 🎬 Fun GIF
+<p align="center">
+  <img src="https://img.shields.io/badge/✨ Random%20GIF-ff69b4?style=for-the-badge&logo=github" />
+</p>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/12pwt3qlbVVBfy/giphy.gif" width="350" alt="fun gif" style="border-radius:20px;" />
+</div>
 
 ---
 
