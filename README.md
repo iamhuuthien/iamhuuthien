@@ -25,8 +25,10 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <a href="huuthien98" target="_blank">
+  <a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2F_u%2Fiam_huuthien%3Figsh%3DOXNzdzNvdHB4bXV3%26utm_source%3Dqr%26fbclid%3DIwZXh0bgNhZW0CMTAAYnJpZBExNnBrYURMaUdJN3k4VzZNTQEeNEuvbD13nT2kMxrmyxoC8nlHmXTkt9YYI-CF0uoFQ3bq0pW05zoWzeST-3s_aem_CMRCJ6H0hKuwYeA1FJ1Msw&h=AT048GK4RsgjTwMFOKOWgGCt-CswdHJmi3LsiEu6uHE8oLvf_YIaRVSjL3ipKrq7wuPk0opOhxPCNZx3q0U53uItpGQ-dtdaQkaVVTCVVHsMt1zp9Wt3PxpsievzId1BgG-vezMmStSom9e8" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fdiscord.gg%2FTBBR6Xv8%3Ffbclid%3DIwZXh0bgNhZW0CMTAAYnJpZBExNnBrYURMaUdJN3k4VzZNTQEeJ32ec4gcJe8gTXK-aXaG5ZuqSGlZlPbgDe4hiZMYMwjodwsYW9Rtkw69j0o_aem_iHFxNTbU1QCqZOmzve1Q5w&h=AT0gA5-NYN2zIrV5aSqDCzrMYL0IuZ49u9RMa__gbLlhfpfa9ahhMGYQHEW2RC45yewprio1yAYYo7ckjZGlGxICWJzLa7CLOB2LJeVYxrXTWbbJMB5wnkC2wpMT26TrTNY0ANZze81PmYKlyhvRVQ" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="https://www.facebook.com/imhuuthien/" target="_blank">
@@ -34,14 +36,6 @@
   </a>
   <a href="https://www.linkedin.com/in/iamhuuthien/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Hữu Thiện">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=H%E1%BB%AFu%20Thi%E1%BB%87n&count=5&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
