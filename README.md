@@ -4,11 +4,12 @@
 ---
 
 ### 🚀 About Me
-- 🎓 Currently studying **Software Engineering** at **Duy Tan University**  
+- 🎓 Software Engineering student @ Duy Tan University  
+- 👨‍💻 Personal GitHub: [iamhuuthien](https://github.com/iamhuuthien)  
+- 🏢 Company GitHub: [thiennguyenhuuncc](https://github.com/thiennguyenhuuncc)  
 - 💻 Interested in **Web Development, Frontend, Backend, and AI**  
-- 🌱 Currently learning **TypeScript, React, and Cloud Services**  
-- 📫 How to reach me: **huuthien.dev@gmail.com**  
-- ⚡ Fun fact: I love exploring new technologies and sharing knowledge  
+- 🌱 Currently learning **TypeScript, React, Cloud Services**  
+- 📫 Reach me: **huuthien.dev@gmail.com**  
 
 ---
 
@@ -21,15 +22,17 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamhuuthien&show_icons=true&theme=radical" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamhuuthien&layout=compact&theme=radical" height="170" alt="Top Languages" />
-</div>
+
+#### 👤 Personal Account
+<img src="https://github-readme-stats.vercel.app/api?username=iamhuuthien&show_icons=true&theme=radical" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamhuuthien&layout=compact&theme=radical" height="160" />
 
 ---
 
-### 🔥 Streak Stats
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamhuuthien&theme=radical" height="170" alt="Streak Stats" />
+#### 🏢 Company Account
+<img src="https://github-readme-stats.vercel.app/api?username=thiennguyenhuuncc&show_icons=true&theme=tokyonight" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiennguyenhuuncc&layout=compact&theme=tokyonight" height="160" />
+
 </div>
 
 ---
