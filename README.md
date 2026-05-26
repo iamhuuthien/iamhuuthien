@@ -13,7 +13,20 @@
 
 ### 🛠️ Languages and Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,python,cs,php,mysql,git,github,vscode,docker,aws" height="50" />
+  <img src="https://img.icons8.com/color/96/javascript.png" alt="JavaScript" />
+  <img src="https://img.icons8.com/color/96/typescript.png" alt="TypeScript" />
+  <img src="https://img.icons8.com/color/96/react-native.png" alt="React" />
+  <img src="https://img.icons8.com/color/96/html-5.png" alt="HTML5" />
+  <img src="https://img.icons8.com/color/96/css3.png" alt="CSS3" />
+  <img src="https://img.icons8.com/color/96/python.png" alt="Python" />
+  <img src="https://img.icons8.com/color/96/c-sharp-logo.png" alt="C#" />
+  <img src="https://img.icons8.com/color/96/php.png" alt="PHP" />
+  <img src="https://img.icons8.com/color/96/mysql-logo.png" alt="MySQL" />
+  <img src="https://img.icons8.com/color/96/git.png" alt="Git" />
+  <img src="https://img.icons8.com/color/96/github.png" alt="GitHub" />
+  <img src="https://img.icons8.com/color/96/visual-studio-code-2019.png" alt="VS Code" />
+  <img src="https://img.icons8.com/color/96/docker.png" alt="Docker" />
+  <img src="https://img.icons8.com/color/96/amazon-web-services.png" alt="AWS" />
 </div>
 
 ---
@@ -22,15 +35,6 @@
 <div align="center">
   <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" title="Quickdraw" />
   <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" title="Pull Shark" />
-</div>
-
----
-
-### 🏢 Organization
-<div align="center">
-  <a href="https://github.com/ncc-erp" target="_blank">
-    <img src="https://img.shields.io/badge/NCC--ERP-Organization-blue?style=for-the-badge&logo=github" />
-  </a>
 </div>
 
 ---
@@ -54,10 +58,6 @@
 ---
 
 ### 🎬 Fun GIF
-<p align="center">
-  <img src="https://img.shields.io/badge/✨ Random%20GIF-ff69b4?style=for-the-badge&logo=github" />
-</p>
-
 <div align="center">
   <img src="https://media.giphy.com/media/12pwt3qlbVVBfy/giphy.gif" width="350" alt="fun gif" style="border-radius:20px;" />
 </div>
